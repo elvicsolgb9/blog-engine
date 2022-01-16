@@ -1,0 +1,25 @@
+<rss version="2.0">
+	<channel>
+  <title>Elvic Sol's Blog</title>
+  <link>http://www.myoldandnewshelves.com</link>
+  <description>Blogs by Elvic Sol</description>
+  <language>en</language>    <item>
+      <pubDate>Tue, 03 Feb 2015 02:42:00 GMT</pubDate>
+      <title>On my journey to wholeness...</title>
+      <link>http://www.myoldandnewshelves.com/post.php?post_id=3</link>
+      <description><![CDATA[<p>A recap on the many mishaps that happened to me along the way, the regrets that I have, the painful emotions caused by them & my journey back to overcoming them.</p>]]></description>
+    </item>
+    <item>
+      <pubDate>Thu, 29 Jan 2015 09:05:00 GMT</pubDate>
+      <title>A test run in my machine used for local development.</title>
+      <link>http://www.myoldandnewshelves.com/post.php?post_id=2</link>
+      <description><![CDATA[<p>This is a test blog on my local development machine to verify if the blog engine is already working.</p>]]></description>
+    </item>
+    <item>
+      <pubDate>Thu, 29 Jan 2015 05:45:00 GMT</pubDate>
+      <title>Test Blog...</title>
+      <link>http://www.myoldandnewshelves.com/post.php?post_id=1</link>
+      <description><![CDATA[<p>A check whether the setup had been successfully made.</p>]]></description>
+    </item>
+  </channel>
+</rss>
